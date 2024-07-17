@@ -30,4 +30,4 @@ Below is an example depicting two closed sets that are each the finite union
 of closed polygonal regions. The characters spell out potato, or *tu dou*,
 in simplified Chinese (a running joke from my topology course).
 
-![Perfectly Normal Space](https://math.dartmouth.edu/~rmaguire/assets/potato.png "Perfectly Normal Space")
+![Perfectly Normal Space](https://math.dartmouth.edu/~rmaguire/projects/perfectly_normal_spaces/potato.png "Perfectly Normal Space")
